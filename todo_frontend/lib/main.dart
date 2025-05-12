@@ -2,11 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:todo_frontend/features/authentication/ui/loginScreen.dart';
 import 'package:todo_frontend/features/authentication/ui/signUpScreen.dart';
 import 'package:todo_frontend/features/home/ui/homePage.dart';
-import 'package:todo_frontend/features/todo/ui/addTodo.dart';
-import 'package:todo_frontend/features/todo/ui/editTodo.dart';
-import 'package:todo_frontend/features/todo/ui/notificationScreen.dart';
-import 'package:todo_frontend/features/todo/ui/viewTodo.dart';
-import 'package:todo_frontend/splash_screen.dart';
+
 
 void main() {
   runApp(const MyApp());
